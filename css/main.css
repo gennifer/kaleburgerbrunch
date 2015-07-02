@@ -1,0 +1,79 @@
+@import url(http://fonts.googleapis.com/css?family=Sancreek);
+@import url(http://fonts.googleapis.com/css?family=Special+Elite);
+
+html {
+  background: #fff url(../images/bgstripes.png) repeat;
+}
+
+body {
+  margin: 0;
+}
+
+address {
+  text-align: center;
+  font-family: 'Special Elite';
+}
+
+.site {
+  background-color: #fff;
+  border: 2px solid black;
+  width: 960px;
+  min-height: 630px;
+  margin: 20px auto 0;
+  border-radius: 20px;
+}
+
+.logo {
+  padding: 5px;
+  text-align: center;
+}
+
+.image {
+  border: 3px solid #C02222;
+  padding: 2px;
+}
+
+.menuItemListItem {
+  display: inline-block;
+  margin: 0 10px;
+  list-style-type: none;
+}
+
+.menuItemInfo {
+  list-style-type: none;
+  text-align: left;
+  margin-bottom: 5px;
+  font-family: 'Sancreek';
+  font-size: 14px;
+  text-align: center;
+}
+
+#footer {
+  font-size: 60px;
+  font-family: 'Sancreek';
+  text-align: center;
+  color: #C02222;
+}
+
+#copy {
+  text-align: center;
+  color: #000000;
+  font-size: 22px;
+  font-family: 'Special Elite';
+  padding: 5px;
+  margin: 10px auto 30px;
+  width: 600px;
+  background-color: #faebd7;
+  border: 1px solid grey;
+}
+
+#allMenuItems {
+  padding: 20px;
+  margin: 0 auto;
+  text-align: center;
+  width: 750px;
+}
+
+.bgColorImage {
+  background-color: #e0ca5e;
+}
